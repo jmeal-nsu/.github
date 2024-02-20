@@ -13,6 +13,9 @@
 - ${\color{red}\textsf{Сычёв Алексей}}$(@TJesT) - GitHub actions, Docker
 
 # Plans
+
+<img width="1026" alt="image" src="https://github.com/jmeal-nsu/.github/assets/42508019/bf2832ef-4fd3-4793-a2ca-0ac4c12163af">
+
 ## API (Server)
 ### BACKEND
 - ${\color{blue}\textsf{Моделирование предметной области}}$ (https://github.com/jmeal-nsu/lessons-api/issues/1)
