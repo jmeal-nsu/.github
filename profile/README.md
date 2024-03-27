@@ -4,7 +4,7 @@
 - ${\color{red}\textsf{Сычёв Алексей}}$(@TJesT) - Python, FastAPI
 
 ### Client-side
-- ${\color{gold}\textsf{Сыроежкин Евгений}}$(@evgen-resuser) - Java, Rust?, ReactJS?
+- ${\color{gold}\textsf{Сыроежкин Евгений}}$(@evgen-resuser) - Go
 
 ### Testing
 - ${\color{lime}\textsf{Бабаян Жора}}$(@ggnmstr) - pytest, JUnit, cargo?
